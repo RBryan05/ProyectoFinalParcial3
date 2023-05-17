@@ -1,3 +1,2 @@
 # ProyectoFinalParcial3
-Al abrir el archivo comprimido, se descargará su contenido, dentro de esté se encuentra la carpeta llamada "Final" 
-esta carpeta contiene en su interior el código del programa y todo lo necesario para llevar a cabo su ejecución.
+Al abrir el archivo comprimido (ProyectoFinalComprimido(Grupo6).zip), accederá al apartado del repositorio donde podrá descargar el archivo, para llevar a cabo la descarga debe hacer click sobre el texto marcado en azul que dice lo siguiente (View Raw) al hacer eso, se descargará automáticamente su contenido. Dentro de esté archivo comprimido se encuentra la carpeta llamada "Final" esta carpeta contiene en su interior el código del programa y todo lo necesario para llevar a cabo su ejecución.
